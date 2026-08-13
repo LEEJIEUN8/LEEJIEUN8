@@ -3,8 +3,8 @@
 This is my GitHub profile repository.
 
 ## About Me
-- Passionate about technology and development.
-- Based in Tokyo.
+Mail:robertwelch2171@gmail.com
+QQ:2635156471
 
 Feel free to explore my repositories!
 
